@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/chandramouly/Documents/Blockchain/vehicle-ssi/contracts/VehicleRegistry.sol": {
+      "lastModificationDate": 1761575687965,
+      "contentHash": "aaa3c14bda75d9f37076909f1a0921e3",
+      "sourceName": "contracts/VehicleRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.14"
+      ],
+      "artifacts": [
+        "VehicleRegistry"
+      ]
+    }
+  }
+}
